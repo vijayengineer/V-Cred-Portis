@@ -1,8 +1,9 @@
 # Check the working demo at https://vijayengineer.github.io/V-Cred-Portis/
-Enable cookies to view the dmo.
+Enable cookies to view the demo.
 Create a wallet at and start on-boarding users into a new DeFi experience
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
